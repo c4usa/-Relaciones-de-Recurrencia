@@ -18,7 +18,7 @@ Usamos las funciones strlen y strcspn*/
 #include "funciones.h"
 
 // Declaración de funciones
-void invertirCad(char cadena[], int inicio  , int fin);
+void invertirCad(char cadena[], int inicio, int fin);
 int factorial(int n);
 void fibonacci(int n, int a, int b);
 

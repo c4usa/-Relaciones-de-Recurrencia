@@ -1,5 +1,5 @@
 /*
-Integrantes: Diego Molina, Tomás Gonzále
+Tomás González
 Grupo:535
 Realizar un menu que permita al usuario seleccionar tres opciones:
 Opción 1: Invertir una cadena ingresada por el usuario. 
@@ -9,7 +9,7 @@ Opción 3: Generar la sucesión de Fibonacci hasta un número dado ingresado por
 
 #include <stdio.h>
 /*La usamos porque es la más común y utilizada, al permitirnos realizar operaciones de entrada y salida.
-Usamos las funciones: main, void,printf, scanf, fgets y getcher*/
+Usamos las funciones: main, void,printf, scanf, fgets y getchar*/
 
 #include <string.h>
 /*La usamos porque nos puede proporcionar funciones que modifiquen cadenas de caracteres.
@@ -18,7 +18,7 @@ Usamos las funciones strlen y strcspn*/
 #include "funciones.h"
 
 // Declaración de funciones
-void invertirCad(char cadena[], int inicio, int fin);
+void invertirCad(char cadena[], int inicio  , int fin);
 int factorial(int n);
 void fibonacci(int n, int a, int b);
 

@@ -15,7 +15,7 @@ Usamos las funciones: main, void,printf, scanf, fgets y getcher*/
 /*La usamos porque nos puede proporcionar funciones que modifiquen cadenas de caracteres.
 Usamos las funciones strlen y strcspn*/
 
-#
+#include "funciones.h"
 
 // Declaración de funciones
 void invertirCad(char cadena[], int inicio, int fin);

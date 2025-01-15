@@ -8,7 +8,8 @@ Toma un input para hacerlo un output
 Sytaxis: int getchar(void);
 
 # fgets 
-Lee una cadena de caracteres ingresada y lo almcena en una cadena específica 
+Lee una cadena de caracteres ingresada y lo almcena en una cadena específica
+ 
 Syntaxis: char *fgets(char *str, int n, FILE *stream)
 
 # strlen

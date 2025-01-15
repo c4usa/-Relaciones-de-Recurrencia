@@ -4,6 +4,7 @@
 
 # Getchar
 Toma un input para hacerlo un output
+
 Sytaxis: int getchar(void);
 
 # fgets 
@@ -12,6 +13,7 @@ Syntaxis: char *fgets(char *str, int n, FILE *stream)
 
 # strlen
 Calcula el tamaño de una cadena dada por el programa o por el usuario
+
 Syntaxis: size_t strlen(const char* str);
 
 # strcspn
